@@ -1,0 +1,3884 @@
+{
+  "users" : {
+    "2A57BD8A-DD43-44DB-A4B4-6E74EAEF128E" : {
+      "deviceManufacturer" : "Apple",
+      "deviceName" : "iOS",
+      "deviceUniqueId" : "2A57BD8A-DD43-44DB-A4B4-6E74EAEF128E",
+      "deviceVersion" : "10.3.1",
+      "logger" : {
+        "-KsJxzTF07BoGBBv2INB" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T17:59:08+02:00"
+        },
+        "-KsJy0vnzo4RhyQYDDVk" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T17:59:18+02:00"
+        },
+        "-KsJy77ZZvzpaITRW_3e" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T17:59:44+02:00"
+        },
+        "-KsJy9YWrUw8S7P0F81M" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T17:59:54+02:00"
+        },
+        "-KsJyByLjJ8XaXc6rpf1" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:00:04+02:00"
+        },
+        "-KsJyEPUJS2QCokDWT4y" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:00:14+02:00"
+        },
+        "-KsJyGqV8r9-nNb9tSNt" : {
+          "beaconInfo" : {
+            "accuracy" : 42.1435266958714,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "far",
+            "rssi" : -85,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:00:24+02:00"
+        },
+        "-KsJyJHXNBxZ5Cid7opC" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:00:34+02:00"
+        },
+        "-KsJyLlfcAPOcqdxyNRn" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:00:44+02:00"
+        },
+        "-KsJyOCxltOyIUZJ35mF" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:00:54+02:00"
+        },
+        "-KsJyQeICTNFnRa81qci" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:01:04+02:00"
+        },
+        "-KsJyawQNa9jQijgSkf1" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:01:50+02:00"
+        },
+        "-KsJydOBJYTlq0t5jG8m" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:02:00+02:00"
+        },
+        "-KsJyfpc5w6zQDsas-ww" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:02:10+02:00"
+        },
+        "-KsJyiGFCUz0uwEWDRrT" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:02:20+02:00"
+        },
+        "-KsJyki5P6Xs3_vH6jzF" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:02:30+02:00"
+        },
+        "-KsJyn8WNSd8v3BAEoQ_" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:02:40+02:00"
+        },
+        "-KsJypaZ9AXAOrtk05Hn" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:02:50+02:00"
+        },
+        "-KsJys1f3xGucCgJQ95n" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:03:00+02:00"
+        },
+        "-KsJyuUeY39cfqyF5W5I" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:03:10+02:00"
+        },
+        "-KsJywvTX8Kz05PZJUF8" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:03:20+02:00"
+        },
+        "-KsJyzM2cXaYzjjGsEG9" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:03:30+02:00"
+        },
+        "-KsJz0o7sbZr6hNcBx7u" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:03:40+02:00"
+        },
+        "-KsJz3FVwxzUsZJExfEZ" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:03:50+02:00"
+        },
+        "-KsJz5h12sGXL2oEQxu8" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:04:00+02:00"
+        },
+        "-KsJz87s1FK0lAXD-J9l" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:04:10+02:00"
+        },
+        "-KsJzA_OBL561726DAUl" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:04:20+02:00"
+        },
+        "-KsJzD14c3Bii6B1edZ3" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:04:30+02:00"
+        },
+        "-KsJzFT4Z84fOASDAcHQ" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:04:40+02:00"
+        },
+        "-KsJzHuMtJuoxFv9rRkx" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:04:50+02:00"
+        },
+        "-KsJzKKWniCln1afdfXQ" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:05:00+02:00"
+        },
+        "-KsJzMm_wpXoJJ8JiRjb" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:05:10+02:00"
+        },
+        "-KsJzPDxNLmKg7pRJ2MB" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:05:20+02:00"
+        },
+        "-KsJzRfCnjuzDEPDJ6h4" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:05:30+02:00"
+        },
+        "-KsJzU6RRY8FILAync5W" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:05:40+02:00"
+        },
+        "-KsJzWYowjvxQsHmVo5X" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:05:50+02:00"
+        },
+        "-KsJzYzwzdd21AK_rNi6" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:06:00+02:00"
+        },
+        "-KsJzaRrbipl12KczBF0" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:06:10+02:00"
+        },
+        "-KsJzcriHtjT0wzEqmFx" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:06:20+02:00"
+        },
+        "-KsJzfJD1W9zlscEHTNe" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:06:30+02:00"
+        },
+        "-KsJzhlOcOAEoZ1tdbtV" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:06:40+02:00"
+        },
+        "-KsJzkCAQWN7ybb8gHC6" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:06:50+02:00"
+        },
+        "-KsJzmddFk8mQydm-c2L" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:07:00+02:00"
+        },
+        "-KsJzp5mt-RTQlOotH80" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:07:10+02:00"
+        },
+        "-KsJzrXfqsrh2y98977u" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:07:20+02:00"
+        },
+        "-KsJztyqjUdgAE_aDCqy" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:07:30+02:00"
+        },
+        "-KsJzwQ3ivg0V66gfmEv" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:07:40+02:00"
+        },
+        "-KsJzyrKlZsMwx9er03Q" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:07:50+02:00"
+        },
+        "-KsK-0IaQo_79yCyguV5" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-09-27T18:08:00+02:00"
+        },
+        "-KsK-2jqdFUF7C-NA3AH" : {
+          "beaconInfo" : {
+            "accuracy" : 19.16117569161178,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "far",
+            "rssi" : -84,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-09-27T18:08:10+02:00"
+        },
+        "-KsK-5B7Y-sDJcyvVLxH" : {
+          "beaconInfo" : {
+            "accuracy" : 24.3195959109623,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "far",
+            "rssi" : -88,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-09-27T18:08:20+02:00"
+        },
+        "-KsK-7cQvefHkukeb25w" : {
+          "beaconInfo" : {
+            "accuracy" : 28.637727092084862,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "far",
+            "rssi" : -87,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-09-27T18:08:30+02:00"
+        },
+        "-KsK-A3uyfn9x5P1UEOC" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-09-27T18:08:40+02:00"
+        },
+        "-KsK-CW9l8NYCVVpsEDK" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-09-27T18:08:50+02:00"
+        },
+        "-KsK-EyWdWY6zXRCnlz3" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-09-27T18:09:00+02:00"
+        },
+        "-KsK-HOin8DlutTsrZ1W" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-09-27T18:09:10+02:00"
+        },
+        "-KsK-JqXR2AJzNdrI4R_" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:09:20+02:00"
+        },
+        "-KsK-MIGHT-fDk6ZLmwJ" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:09:30+02:00"
+        },
+        "-KsK-Oj9D_29wP63mXDF" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:09:40+02:00"
+        },
+        "-KsK-RASWZMW36dJ4rnh" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:09:50+02:00"
+        },
+        "-KsK-TcMBsM3vpMHaJur" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:10:00+02:00"
+        },
+        "-KsK-W3pTLnoU-Gy3MW_" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:10:10+02:00"
+        },
+        "-KsK-YVXrIVJED62dJmu" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:10:20+02:00"
+        },
+        "-KsK-_wmcFXh31z4gq7h" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:10:30+02:00"
+        },
+        "-KsK-cOL6OuE5UYv8FFw" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:10:40+02:00"
+        },
+        "-KsK-eprmki6S6_cl5w-" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:10:50+02:00"
+        },
+        "-KsK-hHd0RoWw9WS4sWk" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:11:00+02:00"
+        },
+        "-KsK-jiken9AOLvoCIFV" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:11:10+02:00"
+        },
+        "-KsK-m9vkNvytVI2tMvw" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:11:20+02:00"
+        },
+        "-KsK-obYe8bsYS_mntls" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:11:30+02:00"
+        },
+        "-KsK-r2PSnp_mAfH1udH" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:11:40+02:00"
+        },
+        "-KsK-tUfb7l6HJuptcvM" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:11:50+02:00"
+        },
+        "-KsK-vvvup6_Q7FbAKrA" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:12:00+02:00"
+        },
+        "-KsK-yNjOAwYGwxVM_BX" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:12:10+02:00"
+        },
+        "-KsK0-p1jzvH_8YcBMjB" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:12:20+02:00"
+        },
+        "-KsK02FnMrflhxvhU5oz" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:12:30+02:00"
+        },
+        "-KsK04h3aVuzMy84ZrSe" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:12:40+02:00"
+        }
+      }
+    },
+    "57225dc42c9c7733" : {
+      "deviceManufacturer" : "HUAWEI",
+      "deviceName" : "Android",
+      "deviceUniqueId" : "57225dc42c9c7733",
+      "deviceVersion" : "6.0",
+      "logger" : {
+        "-KsKCu23BD9VFOyhNqmY" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:08:40+02:00"
+        },
+        "-KsKCwTzpKH2UYv8Ayyj" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:08:50+02:00"
+        },
+        "-KsKCyvWHzZRM-b85k1m" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:09:00+02:00"
+        },
+        "-KsKD0M5JPPw2zH1Lhy7" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:09:10+02:00"
+        },
+        "-KsKD2o1XV5uuCLsxgVt" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:09:20+02:00"
+        },
+        "-KsKD5FmdYys6RajOaIK" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:09:30+02:00"
+        },
+        "-KsKD7hgedDyZXj9uEc7" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:09:40+02:00"
+        },
+        "-KsKDA8c1lL5sG_r3kfA" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:09:50+02:00"
+        },
+        "-KsKDCa7DnobcnwftVtw" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:10:00+02:00"
+        }
+      }
+    },
+    "7e880a39531f4eaa" : {
+      "deviceManufacturer" : "motorola",
+      "deviceName" : "Android",
+      "deviceUniqueId" : "7e880a39531f4eaa",
+      "deviceVersion" : "6.0.1",
+      "logger" : {
+        "-KsK06Yck7pTs__I72ly" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:12:49+02:00"
+        },
+        "-KsK08z202tzB1USTaZv" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:12:59+02:00"
+        },
+        "-KsK0BQIHpBcZoX7rpzq" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:13:09+02:00"
+        },
+        "-KsK0Ds-_fGhDunk05e1" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:13:19+02:00"
+        },
+        "-KsK0GJTyb6d-VoLw_dG" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:13:29+02:00"
+        },
+        "-KsK0Iklu7uhi6n3Mmfi" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:13:39+02:00"
+        },
+        "-KsK0LC0fur3X7eDBuE4" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:13:49+02:00"
+        },
+        "-KsK0NdXz8cCdqdxq1JS" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:13:59+02:00"
+        },
+        "-KsK0Q52cWb6Bhc7Qi-9" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:14:09+02:00"
+        },
+        "-KsK0SXpYRnx2BVGGPng" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:14:19+02:00"
+        },
+        "-KsK0Uyqa6Gu9X4K8xoQ" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:14:29+02:00"
+        },
+        "-KsK0XQVU-UMSn_NcypW" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:14:39+02:00"
+        },
+        "-KsK0ZvcuqhdgFLvq7Uk" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:14:49+02:00"
+        },
+        "-KsK0bJar-jhVOO6vwCG" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:14:59+02:00"
+        },
+        "-KsK0dkeGrGa6zhBnChp" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:15:09+02:00"
+        },
+        "-KsK0gCBzS4fZW4JZeOn" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:15:19+02:00"
+        },
+        "-KsK0ie9DNepoomsM29c" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:15:29+02:00"
+        },
+        "-KsK0l4zI3EnchZfEW_v" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:15:39+02:00"
+        },
+        "-KsK0nXh78uqUloolmxm" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:15:49+02:00"
+        },
+        "-KsK0pyzRGAlPHXEBERs" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:15:59+02:00"
+        },
+        "-KsK0sQjsG7pGZuEMSAs" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:16:09+02:00"
+        },
+        "-KsK0urVP4Z2koQn1jfA" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:16:19+02:00"
+        },
+        "-KsK0xJ0DnqfoKMTz93E" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:16:29+02:00"
+        },
+        "-KsK0zkHQ2UA_tyAZghn" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:16:39+02:00"
+        },
+        "-KsK11BnCjQsx33-cT2W" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:16:49+02:00"
+        },
+        "-KsK13dLbD5-sWYtjiOq" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:16:59+02:00"
+        },
+        "-KsK164qUKZ7bFVBJvsI" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:17:09+02:00"
+        },
+        "-KsK18X61Om9WQcL8hKH" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:17:19+02:00"
+        },
+        "-KsK1AycrdkcnU1fSDBq" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:17:29+02:00"
+        },
+        "-KsK1DQBoZJkliOdfgrh" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:17:39+02:00"
+        },
+        "-KsK1FrhVqILLauVPtH8" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:17:49+02:00"
+        },
+        "-KsK1IIyH2KlE1BwONcX" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:17:59+02:00"
+        },
+        "-KsK1KkUvBXGzG3lLBEQ" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:18:09+02:00"
+        },
+        "-KsK1NC7zP-E8D-Irlrj" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:18:19+02:00"
+        },
+        "-KsK1PdUdO3XkfQj2o3R" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:18:29+02:00"
+        },
+        "-KsK1S4nzJTMNpwsOsVR" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:18:39+02:00"
+        },
+        "-KsK1UXjt8WHB0PTp8XV" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:18:49+02:00"
+        },
+        "-KsK1WykvEjtmBLA3Cao" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:18:59+02:00"
+        },
+        "-KsK1ZQJ84RM6Zd-4ak4" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:19:09+02:00"
+        },
+        "-KsK1arXwa93XA6vXL1w" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:19:19+02:00"
+        },
+        "-KsK1dJJUODitLUq7Lmd" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:19:29+02:00"
+        },
+        "-KsK1fkbgangoDoe_uPO" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:19:39+02:00"
+        },
+        "-KsK1iCA6JYQX3LZb5m9" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:19:49+02:00"
+        },
+        "-KsK1kdOiw12wSvVG7d6" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:19:59+02:00"
+        },
+        "-KsK1n5AXeSqE8cUzNA4" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:20:09+02:00"
+        },
+        "-KsK1pXR0sSEpZlxE3Q-" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:20:19+02:00"
+        },
+        "-KsK1rzGUrNleRekmyg4" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:20:29+02:00"
+        },
+        "-KsK1uQD2Yaen_C9c9f7" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:20:39+02:00"
+        },
+        "-KsK1wrkkRx7SxC7QuFZ" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:20:49+02:00"
+        },
+        "-KsK1zJH7BWoPL2AD_P_" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:20:59+02:00"
+        },
+        "-KsK20kXBljojn14O3ui" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:21:09+02:00"
+        },
+        "-KsK23C5TvjyHgg5FyeJ" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:21:20+02:00"
+        },
+        "-KsK25daYw5lTKTjIMZJ" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:21:30+02:00"
+        },
+        "-KsK28547lbBX4ylWtPi" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:21:40+02:00"
+        },
+        "-KsK2AXJMNPR6kAb_rfY" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:21:50+02:00"
+        },
+        "-KsK2Cyr1yLxqn7MG_ug" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:22:00+02:00"
+        },
+        "-KsK2FQM9IFVkICuBtNM" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:22:10+02:00"
+        },
+        "-KsK2HrtiyLNF8Q7CjTM" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:22:20+02:00"
+        },
+        "-KsK2KJ7llXdCb1X120R" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:22:30+02:00"
+        },
+        "-KsK2Mkhb6kvo4nE9QXl" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:22:40+02:00"
+        },
+        "-KsK2PC9l7Cfb7V49Xy0" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:22:50+02:00"
+        },
+        "-KsK2RdmHehJ6ibONq2H" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:23:00+02:00"
+        },
+        "-KsK3MnfdyrtiQaaRCte" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:27:01+02:00"
+        },
+        "-KsK3PEg0TOn5d4xPFw8" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:27:11+02:00"
+        },
+        "-KsK3RfncSZoFshVOWZO" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:27:21+02:00"
+        },
+        "-KsK3U7KGH5OwgENMWRp" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:27:31+02:00"
+        },
+        "-KsK3WZrKThZWPg4sI7w" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:27:41+02:00"
+        },
+        "-KsK3Z04bf4180b8qjjC" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:27:51+02:00"
+        },
+        "-KsK3aSexUPRWP_UtPWY" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:28:01+02:00"
+        },
+        "-KsK3cuMjdmF6l2sxpjQ" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:28:12+02:00"
+        },
+        "-KsK3fLenGZGewoNrczf" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:28:22+02:00"
+        },
+        "-KsK3hmsJwRy-7-ZyMN2" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:28:32+02:00"
+        },
+        "-KsK3kERHZjim5I4-GB1" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:28:42+02:00"
+        },
+        "-KsK3mfu0pO5ZzUvnT6K" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:28:52+02:00"
+        },
+        "-KsK3p7TsigC9NGq-Hgj" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:29:02+02:00"
+        },
+        "-KsK3rZjIuw7BPkW90HI" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:29:12+02:00"
+        },
+        "-KsK3u0UTOsfiWPHcLLK" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:29:22+02:00"
+        },
+        "-KsK3wSlE_IJQlT-Tiv_" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:29:32+02:00"
+        },
+        "-KsK3yue_TtbNKsMXb0Y" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:29:42+02:00"
+        },
+        "-KsK40LuSgKrYeZ0cyWw" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:29:52+02:00"
+        },
+        "-KsK42n0scVJM6FEKDdS" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:30:02+02:00"
+        },
+        "-KsK45EqnlM-Cp3Ou84V" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:30:12+02:00"
+        },
+        "-KsK47g4Nxlx-Z3WktKe" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:30:22+02:00"
+        },
+        "-KsK4A7KZXUoIJD8Yg03" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:30:32+02:00"
+        },
+        "-KsK4CZsLo9YOQcxVHKQ" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:30:42+02:00"
+        },
+        "-KsK4F0OezQogRW9sQHF" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:30:52+02:00"
+        },
+        "-KsK4HSeBsfv59By7LFe" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:31:02+02:00"
+        },
+        "-KsK4Ju8LEoVRszyZDGG" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:31:12+02:00"
+        },
+        "-KsK4MLjLFjjav9Qw7-8" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:31:22+02:00"
+        },
+        "-KsK4OnAEbThRJzn27kJ" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:31:32+02:00"
+        },
+        "-KsK4REkkjnlxdyp1MfK" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:31:42+02:00"
+        },
+        "-KsK4TfyaPtSw-9BE1BO" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:31:52+02:00"
+        },
+        "-KsK4W7V929_qO1oBfVO" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:32:02+02:00"
+        },
+        "-KsK4Y_0BhlTMDddYAPf" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:32:12+02:00"
+        },
+        "-KsK4a0NezzL7QdPvaTf" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:32:22+02:00"
+        },
+        "-KsK4cSnxT8vHWVozypE" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:32:32+02:00"
+        },
+        "-KsK4euJVaCGmVKWtosm" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:32:42+02:00"
+        },
+        "-KsK4hLplm7NId1xicRN" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:32:52+02:00"
+        },
+        "-KsK4jnNfHnOFXQwdSS5" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:33:02+02:00"
+        },
+        "-KsK4mEckCqMELo7ZbHI" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:33:12+02:00"
+        },
+        "-KsK4zzIhVHjkjUyjmPp" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:34:08+02:00"
+        },
+        "-KsK51QEFSoEoLHjCOj6" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:34:18+02:00"
+        },
+        "-KsK53rpeAGJmmR8TL6a" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:34:28+02:00"
+        },
+        "-KsK56JJqhCbDMizG00T" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:34:38+02:00"
+        },
+        "-KsK58kX2l07zFoeeHcz" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:34:48+02:00"
+        },
+        "-KsK5BC1BnFHwBcKzud8" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:34:58+02:00"
+        },
+        "-KsK5DdaC0IEDZPksy6Z" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:35:08+02:00"
+        },
+        "-KsK5G57rTIaNaNYHIbX" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:35:18+02:00"
+        },
+        "-KsK5IXPzRJU5l5NlYE4" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:35:28+02:00"
+        },
+        "-KsK5KyqJ3Mk4PEHivCu" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:35:38+02:00"
+        },
+        "-KsK5NQNqCeDKXNSyJle" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:35:48+02:00"
+        },
+        "-KsK5PrweQ8dy4H_EjNL" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:35:58+02:00"
+        },
+        "-KsK5SJA13qS8bx8ZZED" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:36:08+02:00"
+        },
+        "-KsK5Ukgdxgpz1ASB3zo" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:36:18+02:00"
+        },
+        "-KsK5XCCKzHLuyleH_w7" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:36:28+02:00"
+        },
+        "-KsK5ZdRs1UR9LW7PZKv" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:36:38+02:00"
+        },
+        "-KsK5b5KyyTxQskVPUU7" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:36:48+02:00"
+        },
+        "-KsK5dXRU6BYuhCPV4D0" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:36:58+02:00"
+        },
+        "-KsK5fyxk_DeXKb1AegS" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:37:08+02:00"
+        },
+        "-KsK5iQZbLHMWk-2CPw9" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:37:18+02:00"
+        },
+        "-KsK5krmCqQvsirScBmk" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:37:28+02:00"
+        },
+        "-KsK5nJIw6r0C8mGbGUA" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:37:38+02:00"
+        },
+        "-KsK5pkjGqixGcTQHWrl" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:37:48+02:00"
+        },
+        "-KsK5sC5fB36Zz071fNY" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:37:58+02:00"
+        },
+        "-KsK5udclJF3c6gFI9xz" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:38:08+02:00"
+        },
+        "-KsK5x5J1Qc7lteV-62M" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:38:18+02:00"
+        },
+        "-KsK5zX_5HB26Ej-QUPH" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:38:28+02:00"
+        },
+        "-KsK60ypLEikjUvTurgo" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:38:38+02:00"
+        },
+        "-KsK63QMNY3grmAL8yvp" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:38:49+02:00"
+        },
+        "-KsK65rriWCda_QRw69s" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:38:59+02:00"
+        },
+        "-KsK68JSk8jtnCM9udsv" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:39:09+02:00"
+        },
+        "-KsK6AkdgrQb6eVPszzb" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:39:19+02:00"
+        },
+        "-KsK6DCTOk_tgeO6av6_" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:39:29+02:00"
+        },
+        "-KsK6Fdhhmwagr650NPY" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:39:39+02:00"
+        },
+        "-KsK6I5FBgW9sgKbx-Gk" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:39:49+02:00"
+        },
+        "-KsK6KXU8mQmUVOutY4p" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:39:59+02:00"
+        },
+        "-KsK6MyysOMH9S76I16s" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:40:09+02:00"
+        },
+        "-KsK6qGSY97Vqld3cpv0" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:42:13+02:00"
+        },
+        "-KsK7BNFvVydaylcrzqL" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:43:43+02:00"
+        },
+        "-KsK7DnkcOhuMiho35IY" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:43:53+02:00"
+        },
+        "-KsK7GF0hQVA39ZpO3-r" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:44:03+02:00"
+        },
+        "-KsK7IguAxplqL7Z0Utb" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:44:13+02:00"
+        },
+        "-KsK7L8Q-LPNYaQ9f07H" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:44:23+02:00"
+        },
+        "-KsK7N_IJnmTFlBRqTf-" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:44:33+02:00"
+        },
+        "-KsK7QtacYYAbMn1b9WN" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:44:47+02:00"
+        },
+        "-KsK7TJpEwoLIPrzq5it" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:44:57+02:00"
+        },
+        "-KsK7Vl215CNiPwSukKf" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:45:07+02:00"
+        },
+        "-KsK7YCW2fSLfPPM4qow" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:45:17+02:00"
+        },
+        "-KsK7_e915ttiVwjn_R9" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:45:27+02:00"
+        },
+        "-KsK7c5Yurq79RqrAs5H" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:45:37+02:00"
+        },
+        "-KsK7eXytG7CnZaGyT-t" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:45:47+02:00"
+        },
+        "-KsK7gzbcGOPYUrH5H9p" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:45:57+02:00"
+        },
+        "-KsK7jQq1QglBWdPoHVw" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:46:07+02:00"
+        },
+        "-KsK7lsOWW7rYrBusFlT" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:46:17+02:00"
+        },
+        "-KsK7oJd2BC5RGlRMtLN" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:46:27+02:00"
+        },
+        "-KsK7qlELkF4OcOyoCo-" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:46:37+02:00"
+        },
+        "-KsK88ENxOWyUOgYsqJW" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:47:53+02:00"
+        },
+        "-KsK8AfT4UVmj3wuQ7M6" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:48:03+02:00"
+        },
+        "-KsK8D6mCOBJ6UBN4HMn" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:48:13+02:00"
+        },
+        "-KsK8FZG2GXik5BgjZrz" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:48:23+02:00"
+        },
+        "-KsK8I-qwc_ZC_7xTMCk" : {
+          "beaconInfo" : {
+            "distance" : 3.3962171086783695,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "far",
+            "rssi" : -80,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:48:33+02:00"
+        },
+        "-KsK8KSiAM_fOjzcUoUA" : {
+          "beaconInfo" : {
+            "distance" : 3.3962171086783695,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "far",
+            "rssi" : -80,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:48:43+02:00"
+        },
+        "-KsK8Mtt5dTu-zcTyCaI" : {
+          "beaconInfo" : {
+            "distance" : 2.8263402437932994,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -80,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:48:53+02:00"
+        },
+        "-KsK8PLNxz2bG7YrqmRY" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:49:03+02:00"
+        },
+        "-KsK8RmMAwZfGqmlFzS6" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:49:13+02:00"
+        },
+        "-KsK8UDvK3WIsbhZndm7" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:49:23+02:00"
+        },
+        "-KsK8WfTfP72eedJiI-y" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:49:33+02:00"
+        },
+        "-KsK8Z6z1WzIEa3I3oWm" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:49:43+02:00"
+        },
+        "-KsK8aZDyKMFHyqAWoBQ" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:49:53+02:00"
+        },
+        "-KsK8d-g-DATu3lXeWlk" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:50:03+02:00"
+        },
+        "-KsK8fSEM7hRkQDWKkDT" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:50:13+02:00"
+        },
+        "-KsK8htTztrFezLM4UL6" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:50:23+02:00"
+        },
+        "-KsK8kLFVU_wXdhj5PXS" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:50:33+02:00"
+        },
+        "-KsK8mmUX5OdkNMSiAyM" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:50:43+02:00"
+        },
+        "-KsK8pEGthMu1O-h3WQi" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:50:53+02:00"
+        },
+        "-KsK8rfId6TxqglHJUD6" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:51:03+02:00"
+        },
+        "-KsK8u6o3yhrRkfPZQoJ" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:51:13+02:00"
+        },
+        "-KsK8wZLXwLptJIHUpY0" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:51:23+02:00"
+        },
+        "-KsK8zKlRJRkV96g_DqE" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:51:34+02:00"
+        },
+        "-KsK90fCY0oLR34_L_Bt" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:51:44+02:00"
+        },
+        "-KsK936kBJ4snkueBisd" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:51:54+02:00"
+        },
+        "-KsK95ZFirs7q8d_wr5V" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:52:04+02:00"
+        },
+        "-KsK98-XvtsUPIuNbnUg" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:52:14+02:00"
+        },
+        "-KsK9AS2L6VgLPie-w9V" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:52:24+02:00"
+        },
+        "-KsK9Ct_desjcBEu8X7Y" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:52:34+02:00"
+        },
+        "-KsK9FLMEDxY670-rVPQ" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:52:44+02:00"
+        },
+        "-KsK9I_QrPI4Wd7cKn5x" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:52:57+02:00"
+        },
+        "-KsK9L7EGmW8ey9YO_Cq" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:53:07+02:00"
+        },
+        "-KsK9NZQxSVXeUQSB28T" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:53:17+02:00"
+        },
+        "-KsK9Q-uZas3-gSp_aQZ" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:53:27+02:00"
+        },
+        "-KsK9SSCN_TwYzsPaNl9" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:53:37+02:00"
+        },
+        "-KsK9UtglUGisHKQ1R8b" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:53:47+02:00"
+        },
+        "-KsK9XLCt_IxekOvgxGk" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:53:57+02:00"
+        },
+        "-KsK9ZmUfMrNqt7Wl7Jo" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:54:07+02:00"
+        },
+        "-KsK9bDyRuPqopYwFtWl" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:54:18+02:00"
+        },
+        "-KsK9dfY_F0Ajcxa14vy" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:54:28+02:00"
+        },
+        "-KsK9g70_xELLonQxmCy" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:54:38+02:00"
+        },
+        "-KsK9iZHd1UT1mYEm41a" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:54:48+02:00"
+        },
+        "-KsK9l-unJg6VdU7IS7h" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:54:58+02:00"
+        },
+        "-KsK9nSMnFLiA5huW-NM" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:55:08+02:00"
+        },
+        "-KsK9ptypSxAk0RLlAAx" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:55:18+02:00"
+        },
+        "-KsK9sL9jtcIHsfnek5d" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:55:28+02:00"
+        },
+        "-KsK9umaSO0dB8iib1Y_" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:55:38+02:00"
+        },
+        "-KsK9xEDC0rYnobxANiL" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:55:48+02:00"
+        },
+        "-KsK9zftPkr1Qe7gXRtt" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:55:58+02:00"
+        },
+        "-KsKA16uY93bV9y-HJO2" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:56:08+02:00"
+        },
+        "-KsKADfodw8XSr5SGMo4" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:56:59+02:00"
+        },
+        "-KsKAG6LP7wbmYWSz63M" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:57:09+02:00"
+        },
+        "-KsKAIYr1kMJhuF7egid" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:57:19+02:00"
+        },
+        "-KsKAL-wg1YLKChuPfMX" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:57:29+02:00"
+        },
+        "-KsKANRtsiwWi8Ips_HV" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:57:39+02:00"
+        },
+        "-KsKAPtFqsHGJo-AQzJa" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:57:49+02:00"
+        },
+        "-KsKASKhs5rz1Xvy6BPn" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:57:59+02:00"
+        },
+        "-KsKAUmChllAWo7ABpUF" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:58:09+02:00"
+        },
+        "-KsKAXDU4RTeQDk7GNBF" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:58:19+02:00"
+        },
+        "-KsKAZeyusUkgMNo2N5y" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:58:29+02:00"
+        },
+        "-KsKAb6TqfJUVbGiLHvs" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:58:39+02:00"
+        },
+        "-KsKAdZFWt7h85gqIN_R" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:58:49+02:00"
+        },
+        "-KsKAg-EY2HInmPyrVtH" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:58:59+02:00"
+        },
+        "-KsKAiRmI5oeGWnkq1tY" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:59:09+02:00"
+        },
+        "-KsKAktIHhjp-k1iFXxT" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:59:19+02:00"
+        },
+        "-KsKAnKZBxHJhFXFd-4H" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:59:29+02:00"
+        },
+        "-KsKApm5UxrqPLG4FZ_B" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:59:39+02:00"
+        },
+        "-KsKAsDY8RXfNrTC3_9x" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:59:49+02:00"
+        },
+        "-KsKAuf9EM-Mw1ak4xdG" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T18:59:59+02:00"
+        },
+        "-KsKAx6OLG460o3vsO8_" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:00:09+02:00"
+        },
+        "-KsKAzZ-yD-yNoBWFrqn" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:00:19+02:00"
+        },
+        "-KsKB1-PBVfcfwCE7Lio" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:00:29+02:00"
+        },
+        "-KsKB3SBXXceFHg2nwvM" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:00:39+02:00"
+        },
+        "-KsKB5t9aMrWMXtjYif8" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:00:49+02:00"
+        },
+        "-KsKB8L-fdtSXbnjtM4A" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:00:59+02:00"
+        },
+        "-KsKBAmEc8QBp3nWOSOu" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:01:09+02:00"
+        },
+        "-KsKBDDkyovAFVmI6RbD" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:01:19+02:00"
+        },
+        "-KsKBFfGFXYJngJt-N2y" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:01:29+02:00"
+        },
+        "-KsKBI6XyD5lGp2wEnfm" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:01:39+02:00"
+        },
+        "-KsKBKZ3hxmbwHrMCIjx" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:01:49+02:00"
+        },
+        "-KsKBN-arZAVCWav4poY" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:01:59+02:00"
+        },
+        "-KsKBPRvBHIUftu6Xtf3" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:02:09+02:00"
+        },
+        "-KsKCmRk-1xl8MTH5yU7" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:08:10+02:00"
+        },
+        "-KsKCos_KkLsGVo58Avv" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:08:20+02:00"
+        },
+        "-KsKCrJphP__TQezaX3Q" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 1,
+          "timestamp" : "2017-09-27T19:08:30+02:00"
+        },
+        "-KsKCtlH-9rObi6Tiuf0" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:08:40+02:00"
+        },
+        "-KsKCwCou7QXWhcur9p-" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:08:50+02:00"
+        },
+        "-KsKCyeM4qw1ii_laepw" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:09:00+02:00"
+        },
+        "-KsKD05_XI_IMgbvtHAy" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:09:10+02:00"
+        },
+        "-KsKD2YNeh1gt7UT2xBF" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:09:20+02:00"
+        },
+        "-KsKD4z_bGshJbzAnMd4" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:09:30+02:00"
+        },
+        "-KsKD7R8Sdg-6hAIMwGm" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:09:40+02:00"
+        },
+        "-KsKD9seoIT6H9-3BjER" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:09:50+02:00"
+        },
+        "-KsKDCJqm06FQh8t58er" : {
+          "beaconInfo" : {
+            "distance" : 2.220353249248116,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "near",
+            "rssi" : -74,
+            "uuid" : "b9407f30-f5f8-466e-aff9-25556b57fe6d"
+          },
+          "count" : 0,
+          "timestamp" : "2017-09-27T19:10:00+02:00"
+        }
+      }
+    },
+    "82FD516D-BCA5-439C-98AE-91BB72EA0118" : {
+      "deviceManufacturer" : "Apple",
+      "deviceName" : "iOS",
+      "deviceUniqueId" : "82FD516D-BCA5-439C-98AE-91BB72EA0118",
+      "deviceVersion" : "10.3.1",
+      "logger" : {
+        "-KsK41W34dt6TWea5bWW" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:29:56+08:00"
+        },
+        "-KsK43x3Yfqg7YqjZr-3" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:30:06+08:00"
+        },
+        "-KsK46OMuXp9a6tTEK3I" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:30:16+08:00"
+        },
+        "-KsK48pabwJHTEgJvwvE" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:30:26+08:00"
+        },
+        "-KsK4BGvOk40YofQEtZ_" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:30:36+08:00"
+        },
+        "-KsK4Dh_AC7O6bKmRDGj" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:30:46+08:00"
+        },
+        "-KsK4G9ZfTB6qF_vy0mu" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:30:56+08:00"
+        },
+        "-KsK4IaSeBR4x4iAu_Il" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:31:06+08:00"
+        },
+        "-KsK4L1j4ddZy9m0K7EP" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:31:16+08:00"
+        },
+        "-KsK4NU-uV8JIJ1Be2B-" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:31:26+08:00"
+        },
+        "-KsK4PvKDoAiujZ6UjB1" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:31:36+08:00"
+        },
+        "-KsK4SMXNo5kw84EBJoK" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:31:46+08:00"
+        },
+        "-KsK4Unt1GMjpG427czc" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:31:56+08:00"
+        },
+        "-KsK4XF7JH4J0neTNscf" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:32:06+08:00"
+        },
+        "-KsK4ZgEdtS9A1PPkZIY" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:32:16+08:00"
+        },
+        "-KsK4b7gS0iWlDKHhCcu" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:32:26+08:00"
+        },
+        "-KsK4dZMtm5j-z13-aYY" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:32:36+08:00"
+        },
+        "-KsK4g09pbZTlFG1M6hM" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:32:46+08:00"
+        },
+        "-KsK4iSMPzDguUfUMKVi" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:32:56+08:00"
+        },
+        "-KsK4ktki-Zf-UVEamcp" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:33:06+08:00"
+        },
+        "-KsK4nKUvip3fqXcyyPO" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:33:16+08:00"
+        },
+        "-KsK4plkh-U54e4ZcfZS" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:33:26+08:00"
+        },
+        "-KsK4sD9gWxltHMQjVrz" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:33:36+08:00"
+        },
+        "-KsK4ueghyDLvWW49CXw" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:33:46+08:00"
+        },
+        "-KsK4x5wdaEeNSBzepFq" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:33:56+08:00"
+        },
+        "-KsK4zY2cGENiDAtNTe_" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:34:06+08:00"
+        },
+        "-KsK50zu5_ScaM_XbaKp" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:34:16+08:00"
+        },
+        "-KsK53QPabTXW-atdMAR" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:34:26+08:00"
+        },
+        "-KsK55rmq0hBc2du2TW6" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:34:36+08:00"
+        },
+        "-KsK58K4WGc7XYFDb2k6" : {
+          "count" : 0,
+          "timestamp" : "2017-08-25T00:34:46+08:00"
+        },
+        "-KsK5AmCMB83R2AN_9sg" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:34:56+08:00"
+        },
+        "-KsK5DDZGuQlndMXCutL" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:35:06+08:00"
+        },
+        "-KsK5FerF97s1pVvoFlj" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:35:16+08:00"
+        },
+        "-KsK5I6GHB1j6hmVw25i" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:35:26+08:00"
+        },
+        "-KsK5KYN65kTYzfTyeIi" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:35:36+08:00"
+        },
+        "-KsK5MzfkTp2ikpTMzXk" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:35:46+08:00"
+        },
+        "-KsK5PQtfaT5nf6eEh5r" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:35:56+08:00"
+        },
+        "-KsK5RsBzxc7QDGu3OMA" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:36:06+08:00"
+        },
+        "-KsK5UKx-ktPpdXAGGnG" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:36:16+08:00"
+        },
+        "-KsK5WltOr3dzMTlw72O" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:36:26+08:00"
+        },
+        "-KsK5ZD5kG6rjyCptHaX" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:36:36+08:00"
+        },
+        "-KsK5aeLaHh4Ysw2iQun" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:36:46+08:00"
+        },
+        "-KsK5d5_aQGtli5KU0SD" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:36:56+08:00"
+        },
+        "-KsK5fXwNZRtIc3c3Vxw" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:37:06+08:00"
+        },
+        "-KsK5hzDnSeZX02OP1CI" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:37:16+08:00"
+        },
+        "-KsK5kQTjuUnnJXbu1ZD" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:37:26+08:00"
+        },
+        "-KsK5mtKCS92fnpeaO_R" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:37:36+08:00"
+        },
+        "-KsK5pJW76Ev32pjce3Q" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:37:46+08:00"
+        },
+        "-KsK5rkWIL_SzI_JkZrl" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:37:56+08:00"
+        },
+        "-KsK5uC97mDeE9b7e0qJ" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:38:06+08:00"
+        },
+        "-KsK5wd1jxaAz1GLjf8D" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:38:16+08:00"
+        },
+        "-KsK5z4ra6sg3keVazN5" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:38:26+08:00"
+        },
+        "-KsK60WXjxauxkUCsUEs" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:38:36+08:00"
+        },
+        "-KsK62xms0eGVy7x3W9y" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:38:46+08:00"
+        },
+        "-KsK65P1GnmIgB7IW7j2" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:38:56+08:00"
+        },
+        "-KsK67qBpn1xfLEOVyrb" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:39:06+08:00"
+        },
+        "-KsK6AHbRM_is3-0AmFx" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:39:16+08:00"
+        },
+        "-KsK6CiqyPmp7BYX0v9K" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:39:26+08:00"
+        },
+        "-KsK6FA6IAQLAnuyUvA_" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:39:36+08:00"
+        },
+        "-KsK6HakHfXZT0NB7_Lo" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:39:46+08:00"
+        },
+        "-KsK6K1xdPQoRYMomMjU" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:39:56+08:00"
+        },
+        "-KsK6MU9ef0vi_iw0MrF" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:40:06+08:00"
+        },
+        "-KsK6Ovic6Hwrg-8cHv4" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:40:16+08:00"
+        },
+        "-KsK6RNNG4d_vVId6zR_" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:40:26+08:00"
+        },
+        "-KsK6ToRadT_-Rl8Jore" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:40:36+08:00"
+        },
+        "-KsK6WGLfZnsGicl6yYD" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 3697,
+            "minor" : 44083,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 1,
+          "timestamp" : "2017-08-25T00:40:46+08:00"
+        },
+        "-KsK6YglmTaoxlaXJr4o" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:40:56+08:00"
+        },
+        "-KsK6a8G89c_VFEk2v5c" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:41:06+08:00"
+        },
+        "-KsK6c_S2Ri7oC4DtGVs" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:41:16+08:00"
+        },
+        "-KsK6f0k635gKOsxxkqS" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:41:26+08:00"
+        },
+        "-KsK6hT334BB_nKgJPPY" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:41:36+08:00"
+        },
+        "-KsK6juJOOlbDqps2wVe" : {
+          "beaconInfo" : {
+            "accuracy" : 51.21232645780432,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "far",
+            "rssi" : -90,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:41:46+08:00"
+        },
+        "-KsK6mLZkAGCiBiFkOXy" : {
+          "beaconInfo" : {
+            "accuracy" : 37.07542036747636,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "far",
+            "rssi" : -86,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:41:56+08:00"
+        },
+        "-KsK6omqnGxae2zqAhzF" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:42:06+08:00"
+        },
+        "-KsK6rE3hYc-u0itQQM4" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:42:16+08:00"
+        },
+        "-KsK6tfB3xkP3weD18IH" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:42:26+08:00"
+        },
+        "-KsK6w6GN70Avg2y-bfo" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:42:36+08:00"
+        },
+        "-KsK6yYiu3ULTUV9uJlh" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:42:46+08:00"
+        },
+        "-KsK70-725kLicnw3auo" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:42:56+08:00"
+        },
+        "-KsK72Rnk5EzHdJE_KTX" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:43:06+08:00"
+        },
+        "-KsK74tPrtLeHHCzuwp1" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:43:16+08:00"
+        },
+        "-KsK77JZlD2ZYc3EPJm7" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:43:26+08:00"
+        },
+        "-KsK79lAUyywdaXDiscU" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:43:36+08:00"
+        },
+        "-KsK7CCLBKlJsBSWFs7s" : {
+          "beaconInfo" : {
+            "accuracy" : 39.92950137845573,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "far",
+            "rssi" : -89,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:43:46+08:00"
+        },
+        "-KsK7Edcs8R8qPPNUAzq" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:43:56+08:00"
+        },
+        "-KsK7H51Hr9mExBLfRuZ" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:44:06+08:00"
+        },
+        "-KsK7JXG0FuezMbNWEIS" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:44:16+08:00"
+        },
+        "-KsK7LySfb8tXGNZyyNh" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:44:26+08:00"
+        },
+        "-KsK7OQQ7DwO3GXgCbmV" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:44:36+08:00"
+        },
+        "-KsK7QrdlCJAVRsNydZg" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:44:46+08:00"
+        },
+        "-KsK7TIuMkHz8iHd5HZf" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:44:56+08:00"
+        },
+        "-KsK7VkUbz78M22BK4iU" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:45:06+08:00"
+        },
+        "-KsK7YBX8QiUyhOJEwbx" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:45:16+08:00"
+        },
+        "-KsK7_cmfB6WowPXZPNV" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:45:26+08:00"
+        },
+        "-KsK7c42v_ofFKpC6eKn" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:45:36+08:00"
+        },
+        "-KsK887T0BI631TxdToh" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 39084,
+            "minor" : 19295,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 2,
+          "timestamp" : "2017-08-25T00:47:51+08:00"
+        },
+        "-KsK8A43B4FAONS3BCSV" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:48:02+08:00"
+        },
+        "-KsK8DB2IESkKYPkrQXT" : {
+          "beaconInfo" : {
+            "accuracy" : 11.763242153391811,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "far",
+            "rssi" : -76,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:48:12+08:00"
+        },
+        "-KsK8FcLUabwkLT_IUz3" : {
+          "beaconInfo" : {
+            "accuracy" : 11.246016149294643,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "far",
+            "rssi" : -76,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:48:22+08:00"
+        },
+        "-KsK8I3hktimqyxk_k2o" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:48:32+08:00"
+        },
+        "-KsK8KVyG7PPCYWvUg0U" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:48:42+08:00"
+        },
+        "-KsK8MxGKn-nsG6v1yFh" : {
+          "beaconInfo" : {
+            "accuracy" : 17.589572966855627,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "far",
+            "rssi" : -82,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:48:52+08:00"
+        },
+        "-KsK8PORmK8WiCYR90Pq" : {
+          "beaconInfo" : {
+            "accuracy" : 8.82792129494737,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "far",
+            "rssi" : -73,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:49:02+08:00"
+        },
+        "-KsK8Rq76CYgUP39_Zkm" : {
+          "beaconInfo" : {
+            "accuracy" : 8.749807999239737,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "far",
+            "rssi" : -77,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:49:12+08:00"
+        },
+        "-KsK8UGxFhhvMEcapElW" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:49:22+08:00"
+        },
+        "-KsK8WiQYBJcXeYti0ua" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:49:32+08:00"
+        },
+        "-KsK8Z9VTJGdaytVUS3h" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:49:42+08:00"
+        },
+        "-KsK8aajnws-E6PBeNMJ" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:49:52+08:00"
+        },
+        "-KsK8d1zz0rYK5W8VSKo" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:50:02+08:00"
+        },
+        "-KsK8fUc2r5AHEboyfhr" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:50:12+08:00"
+        },
+        "-KsK8hvlF4lNhMtSkW3-" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:50:22+08:00"
+        },
+        "-KsK8kMVbgP48O2-oE00" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:50:32+08:00"
+        },
+        "-KsK8moRnCmmTqypu9Fz" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:50:42+08:00"
+        },
+        "-KsK8pFr8U9eYihYy8BJ" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:50:52+08:00"
+        },
+        "-KsK8rj05wuxRX8dP-uk" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:51:02+08:00"
+        },
+        "-KsK8uAO7P6MVLP5a8e_" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:51:12+08:00"
+        },
+        "-KsK8wbe9icDRIDs_1d_" : {
+          "beaconInfo" : {
+            "accuracy" : -1,
+            "major" : 47359,
+            "minor" : 47605,
+            "proximity" : "unknown",
+            "rssi" : 0,
+            "uuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D"
+          },
+          "count" : 3,
+          "timestamp" : "2017-08-25T00:51:22+08:00"
+        }
+      }
+    },
+    "EF0B959B-E4B3-4C25-9D3C-A6B6E589B8D5" : {
+      "deviceManufacturer" : "Apple",
+      "deviceName" : "iOS",
+      "deviceUniqueId" : "EF0B959B-E4B3-4C25-9D3C-A6B6E589B8D5",
+      "deviceVersion" : "10.3.2",
+      "logger" : {
+        "-KsK-qklP-hdDQ-NlU0z" : {
+          "count" : 0,
+          "timestamp" : "2017-09-27T18:11:39+02:00"
+        }
+      }
+    }
+  }
+}
